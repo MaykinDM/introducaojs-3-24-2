@@ -10,3 +10,8 @@ const idade = 29;
 console.log(meuNuero);
 console.log(telefone);
 console.log(idade);
+
+
+const soma = meuNuero + idade;
+
+console.log(soma)
